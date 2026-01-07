@@ -1,4 +1,4 @@
-# SQl-Exploratory_data_analysis
+# SQl-Exploratory_data_analysis(EDA) and Adavnce Analysis
 SQL project focused on data exploration, dimensional insights, time-based analysis, measures, magnitude comparison, and ranking logic.
 
 📊 SQL Data Analysis Project
