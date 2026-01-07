@@ -76,24 +76,4 @@ Using window functions for advanced analysis
 
 Converting business questions into SQL solutions
 
-🎯 Use Case
-
-This project is suitable for:
-
-Data Analyst interviews
-
-SQL practice and revision
-
-Portfolio showcase on GitHub
-
 Understanding real-world analytical scenarios
-
-🚀 How to Use
-
-Clone or download the repository
-
-Import SQL files into your SQL environment
-
-Execute queries step by step
-
-Modify queries to explore additional insights
