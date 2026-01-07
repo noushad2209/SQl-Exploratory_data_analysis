@@ -1,79 +1,76 @@
-# SQl-Exploratory_data_analysis(EDA) and Adavnce Analysis
-SQL project focused on data exploration, dimensional insights, time-based analysis, measures, magnitude comparison, and ranking logic.
-
+# SQl-Exploratory_data_analysis(EDA) and Advance Analysis
 📊 SQL Data Analysis Project
 📌 Project Overview
 
-This project demonstrates practical SQL skills through structured data analysis techniques. The goal is to explore, analyze, and extract meaningful insights from data using industry-standard SQL queries and logic.
+This project demonstrates end-to-end data analysis using SQL.
+It focuses on exploring data, identifying trends, measuring performance, and generating meaningful business insights through structured SQL queries.
 
-The project focuses on data understanding, trend analysis, aggregation, and ranking, which are essential skills for a Data Analyst role.
+The project is designed to strengthen analytical thinking, SQL logic, and real-world reporting skills required for a Data Analyst role.
 
-🛠️ Skills & Tools Used
+🧩 Key Analysis Areas Covered
+1. Data Exploration
+  Understand overall dataset structure
+  Check total records, missing values, and data quality
 
-SQL (Joins, Subqueries, CTEs, Window Functions)
+2. Dimension Exploration
+  Analyze categorical fields such as customer, product, category, and region
+  Identify unique values and distributions
 
-Data Aggregation & Filtering
+3. Date Exploration
+  Analyze data across years, months, and days
+  Identify time-based patterns and trends
 
-Analytical Thinking
+5. Measure Exploration
+  Analyze numerical fields such as sales, quantity, revenue, and profit
+  Calculate totals, averages, minimums, and maximums
 
-Problem Solving
+7. Magnitude Analysis
+  Compare values to understand scale and impact
+  Identify high and low performing entities
 
-📂 Project Structure
+9. Ranking Analysis
+  Rank customers, products, and categories
+  Identify top and bottom performers using SQL ranking functions
 
-The project is divided into the following analytical modules:
+11. Change Over Time Analysis
+  Track growth and decline over time
+  Perform year-over-year and month-over-month analysis
 
-1️⃣ Data Exploration
+13. Cumulative Analysis
+  Calculate running totals and cumulative metrics
+  Understand long-term performance trends
 
-Understanding table structure and schema
+15. Performance Analysis
+  Compare actual performance against benchmarks
+  Identify best and worst performing dimensions
 
-Checking data quality (null values, duplicates)
+16. Data Segmentation
+  Group customers and products based on behavior and performance
+  Create meaningful segments for analysis
 
-Basic data inspection using SELECT queries
+17. Part-to-Whole Analysis
+  Understand contribution percentages
+  Analyze how each segment contributes to the total
 
-2️⃣ Dimension Exploration
+📑 Reports Generated
 
-Analysis based on categorical columns (e.g., department, category, region)
+👥 Customer Report
+  Top and bottom customers
+  Customer contribution to revenue
+  Customer segmentation analysis
 
-Grouping and summarizing data using GROUP BY
+📦 Product Report
+  Best and worst selling products
+  Category-wise performance
+  Product contribution analysis
 
-3️⃣ Date Exploration
-
-Time-based analysis using date fields
-
-Identifying trends by day, month, and year
-
-Handling date functions and formats
-
-4️⃣ Measure Exploration
-
-Calculating key metrics such as totals, averages, counts
-
-Using aggregate functions like SUM(), AVG(), COUNT()
-
-5️⃣ Magnitude Analysis
-
-Comparing values across different dimensions
-
-Identifying highest and lowest contributors
-
-Understanding distribution and scale of data
-
-6️⃣ Ranking Analysis
-
-Ranking records using RANK(), DENSE_RANK(), ROW_NUMBER()
-
-Finding top-N and bottom-N results
-
-Partition-based ranking analysis
-
-📈 Key Learnings
-
-Writing efficient and readable SQL queries
-
-Applying analytical logic instead of memorizing syntax
-
-Using window functions for advanced analysis
-
-Converting business questions into SQL solutions
-
-Understanding real-world analytical scenarios
+🛠️ Tools & Technologies Used
+    SQL
+    SQL concepts used:
+    Joins
+    Subqueries
+    CTEs
+    Window Functions
+    Aggregations
+    Ranking Functions
+    Date Functions
